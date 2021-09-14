@@ -1,11 +1,16 @@
 _repo: Stories-and-Story-telling_66273
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66273-h/images/cover.jpg
 creator:
   author:
     agent_name: Keyes, Angela M.
     gutenberg_agent_id: '53721'
     url: http://www.gutenberg.org/2009/agents/53721
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66273#Stories-and-Story-telling
 gutenberg_issued: '2021-09-11'
 identifiers:
   gutenberg: '66273'
